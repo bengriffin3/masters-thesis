@@ -1,0 +1,8 @@
+{
+    "data_path": "/home/INT/meunier.d/Data/Camille_Toronto/DynGraph",
+    "subject_ids": ["amp10slam5v2"],
+    "freq_bands": ["band0", "band1", "band2", "band3", "band4", "band5"],
+    "conf_interval_prob": 0.05,
+    "con_den": 0.1,
+    "radatools_optim": "WS tfrf 100"
+}
